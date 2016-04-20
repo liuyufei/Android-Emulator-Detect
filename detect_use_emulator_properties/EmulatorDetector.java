@@ -1,5 +1,3 @@
-package com.lyf.jason.androidemulatordetect;
-
 import android.content.Context;
 import android.os.Build;
 import android.telephony.TelephonyManager;
